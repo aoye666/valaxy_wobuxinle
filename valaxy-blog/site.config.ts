@@ -6,6 +6,7 @@ export default defineSiteConfig({
   title: 'aoye的小站',
   author: {
     name: 'aoye',
+    avatar: 'https://free.picui.cn/free/2025/08/04/68902b126002c.jpg',
   },
   description: '别看啦，这个站没啥内容',
   social: [
